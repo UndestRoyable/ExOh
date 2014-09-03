@@ -1,0 +1,6 @@
+E:\IntroCSharp\Programming101\Programming101\obj\Debug\ExOH.csprojResolveAssemblyReference.cache
+E:\IntroCSharp\Programming101\Programming101\bin\Debug\Programming101.exe.config
+E:\IntroCSharp\Programming101\Programming101\bin\Debug\Programming101.exe
+E:\IntroCSharp\Programming101\Programming101\bin\Debug\Programming101.pdb
+E:\IntroCSharp\Programming101\Programming101\obj\Debug\Programming101.exe
+E:\IntroCSharp\Programming101\Programming101\obj\Debug\Programming101.pdb
